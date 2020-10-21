@@ -1489,7 +1489,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: auto;
 		}
 
 		.image.featured {
@@ -1500,7 +1500,7 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: auto;
 		}
 
 		.image.left {
